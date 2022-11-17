@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GyuGwanLee&fontSize=90)
 
 
-Hello, good to meet you.😄<br>
+Hello, there.😄<br>
 I'm a <b>mobile app developer</b> using Android.
 
 I can develop it with a cross-platform like React Native, but I prefer development in the native environment.
